@@ -1,11 +1,17 @@
 # readme
 
-PortListener - nas³uchuje na porcie
+PortListener - nasuchuje na porcie
 
-u¿ycie:
+uycie:
 
 PortListener numerportu
 
 np.
 
 PortListener 8080
+
+
+
+inspiracja, czyli kod wzity ze strony:
+
+https://www.codeproject.com/Questions/1040573/Creating-a-Port-Listener-using-csharp-programming
